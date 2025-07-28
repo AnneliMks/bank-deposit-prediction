@@ -49,4 +49,4 @@ The code runs in one go. Multiple windows with charts will open automatically to
 F1-score around 80%, a satisfactory result that could be improved with more data and training.
 
 ## Author  
-Your Name – your.email@example.com
+@AnneliMks
