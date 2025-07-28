@@ -22,7 +22,8 @@ Le code s'exécute simplement en une fois. Plusieurs fenêtres contenant des gra
 F1-score autour de 80%, résultat satisfaisant qui pourrait s’améliorer avec plus de données et d’entraînement.
 
 ## Auteur  
-@AnneliMks
+[@AnneliMks ](https://github.com/AnneliMks)
+
 
 ------------------------------------------------------------------------------------------------------------------
 # Deposit Term Subscription Prediction Project
@@ -49,4 +50,4 @@ The code runs in one go. Multiple windows with charts will open automatically to
 F1-score around 80%, a satisfactory result that could be improved with more data and training.
 
 ## Author  
-@AnneliMks
+[@AnneliMks ](https://github.com/AnneliMks)
